@@ -41,7 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/QualysGuard-0078D4?style=for-the-badge&logo=Qualys&logoColor=white />
+    <img src="https://img.shields.io/badge/QualysGuard-0078D4?style=for-the-badge&logo=Qualys&logoColor=white" />
  
 </div>
 
