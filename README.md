@@ -3,8 +3,10 @@
 
 Brief intro
 
-I am a architectect venturing into cyber security
+I am an architect with a year of experience interested in cybersecurity. 
+I'm an aspiring cybersecurity professional eager to make a meaningful impact in securing digital ecosystems. While my formal background is not in cybersecurity, I bring transferable skills such as problem-solving, attention to detail, and a strong work ethic cultivated through [insert prior experience, e.g., IT support, project management, or other relevant roles].
 
+My recent focus has been on building foundational knowledge in cybersecurity through self-study, certifications like [name certifications pursued, e.g., ISC2 CC or CompTIA Security+], and hands-on practice with tools like [name cybersecurity labs or platforms, e.g., TryHackMe or Hack The Box]. I am passionate about learning and ready to apply my growing expertise to safeguard systems, mitigate risks, and contribute to the evolving field of cybersecurity
 ## Objective
 objective)
 
