@@ -55,4 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Home Lab
-- SOC Automation Project
+- Wireshark Capture Project 
+- Microsoft server using Cloud
+- Network Traffic Analysis
